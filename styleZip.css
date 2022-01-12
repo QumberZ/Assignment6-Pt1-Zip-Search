@@ -1,0 +1,23 @@
+.style {
+    padding: 20px;
+height: 30px;
+
+  }
+  .App{
+    text-align: center;
+    background-color: rgba(56, 23, 3, 0.932);
+    color: blue;
+    height: 50px;
+    padding: 20px;
+  }
+
+  .container{
+
+    background-color: #6188d4;
+  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: rgb(17, 6, 1);
+  }
